@@ -1,0 +1,5 @@
+# core (Option A)
+numpy
+scikit-learn
+# optional: sentence-transformers gives much better semantic similarity; reviewers may have it
+sentence-transformers
